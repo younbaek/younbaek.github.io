@@ -5,7 +5,7 @@ layout: default
 <table style="border-collapse: collapse; border: none;" width="100%">
   <tr>
     <td style="border: none;" width="60%"> 
-      I am a PhD student in economics at NYU Stern.<br>
+      I am a PhD student in economics at NYU Stern.<br><br>
       My research interests are economics of innovation, economic development, and economic history.
     </td>
     <td style="border: none;" width="40%">
