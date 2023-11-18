@@ -19,7 +19,7 @@ nav:
  - name: "Home"
    link: "index"
  - name: "CV"
-   link: "resume.pdf"
+   link: "../assets/papers/paper.pdf"
  - name: "Research"
    link: "research"
  - name: "Contact"
