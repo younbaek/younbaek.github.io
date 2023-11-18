@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<img class="profile-picture" src="baek.png" width="596" height="745">
-
+<div class="profile-container">
+    <img class="profile-picture" src="baek.png" alt="Profile Picture">
+</div>
 
 I am a PhD student in economics at NYU Stern.
 
