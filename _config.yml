@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://younbaek.github.io"
+footer_url: ""
 footer_text: ""
 
 sass:
@@ -24,3 +24,6 @@ nav:
    link: "research"
  - name: "Contact"
    link: "contact"
+
+
+image: /profile.png
