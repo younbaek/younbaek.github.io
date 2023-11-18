@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="baek.png" width="200" height="200">
+<img class="profile-picture" src="baek.png" width="596" height="745">
 
 
 I am a PhD student in economics at NYU Stern.
