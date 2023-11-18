@@ -6,7 +6,7 @@ layout: default
 
 - "Paper title"    
 _Draft available upon request_    
-November 2023
+October 2023 | [Paper](../assets/papers/paper.pdf) |
 
 
     <details>
