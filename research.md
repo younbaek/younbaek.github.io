@@ -2,8 +2,6 @@
 layout: default
 ---
 
----
-
 ## Working papers
 
 - "Paper title"    
@@ -18,4 +16,4 @@ November 2023
             </p>
 	</details>   
 
----
+
