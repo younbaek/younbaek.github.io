@@ -9,7 +9,7 @@ _Draft available upon request_
 October 2023 | [Draft](../assets/papers/paper.pdf) 
 
     <details>
-        <summary style="margin-top: -1.3em; cursor: pointer; color: $accent;">Abstract</summary>
+        <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
             This is the abstract of my paper.
         </p>
