@@ -16,7 +16,7 @@ June 2024 | [Draft](../assets/papers/paper.pdf)
 ## Working papers
 
 - "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry"    
-June 2024 | [Draft](../assets/papers/baek_beet.pdf) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859645)
+June 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859645)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
