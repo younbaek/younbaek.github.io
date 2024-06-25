@@ -2,13 +2,13 @@
 layout: default
 ---
 ## Job Market Paper
-- ""
+- "Cultural exchange and the birth of international development"
 June 2024 | [Draft](../assets/papers/paper.pdf)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            This is an abstract 
+            Coming soon
         </p>
     </details>
 
