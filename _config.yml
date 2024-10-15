@@ -19,7 +19,7 @@ nav:
  - name: "Home"
    link: "index"
  - name: "CV"
-   link: "../assets/papers/paper.pdf"
+   link: "../assets/papers/baek_cv.pdf"
  - name: "Research"
    link: "research"
  - name: "Contact"
