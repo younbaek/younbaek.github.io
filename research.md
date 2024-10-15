@@ -25,3 +25,17 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
 
         </p>
     </details>
+
+
+## Work in progress
+
+- "Place-based costs and productivity in R&D"  (with Sathya Ramesh)
+
+    <details>
+        <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
+        <p class="notice" style="margin-top:0 !important">
+            This paper estimates the elasticities of productivity and costs of R&D with respect to urban concentration using data on 0.3 million scientists across American cities. We introduce a novel shift-share instrumental variable based on university-origin and destination-city pairs. Our findings show that the agglomeration elasticity of patents is generally higher than that of wages. However, while place-based costs remain constant across cities of varying sizes, the agglomeration elasticity of patents declines significantly in cities above the median size. These results suggest that place-based policies aimed at fostering economic activity in non-superstar cities could enhance the aggregate productivity of R&D.
+
+
+        </p>
+    </details>
