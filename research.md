@@ -3,7 +3,7 @@ layout: default
 ---
 ## Job Market Paper
 - "Cultural exchange and the birth of international development"
-Draft coming soon
+
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
