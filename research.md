@@ -3,24 +3,25 @@ layout: default
 ---
 ## Job Market Paper
 - "Cultural exchange and the birth of international development"
-June 2024 | Draft coming soon
+Draft coming soon
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            Coming soon
+            This paper investigates the impact of intergroup contact on commitment to international development in the context of the Student Volunteer Movement, the largest missionary movement in the United States. Using hand-collected archival records of individual missionaries and volunteers who did not ultimately become missionaries, matched with publication data, this study shows missionary experience deepened social scientific knowledge of non-European countries. I document that U.S intelligence in non-European regions during WWII relied heavily on missionaries even compared with other foreign experts, when the US began to increase its international involvement. Building upon these findings, the next part of the paper explores how deeper understanding of foreign countries shaped preferences for foreign aid. Using a shift-share instrumental variable based on denominational exposure to early missionary recruiters in 1886-87, I demonstrate that congressmen representing denominations with greater missionary exposure were more likely to support landmark foreign aid legislation that established the concept of foreign assistance for the first time. This exposure fostered private foreign aid through churches, promoted moral universalism in congressional speeches, and led to an increase in Peace Corps volunteers.
         </p>
     </details>
 
 
 ## Working papers
 
-- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry"  *(Submitted)*      
-June 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859645)
+- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry"  *(Submitted)*      
+September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859645)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            This paper investigates the role of agricultural processing as a bridge between agricultural productivity growth and local industrial development through the U.S. beet sugar industry, which processes a heavy and perishable crop requiring large-scale local facilities near farmlands. To address the endogenous location choice of plant openings, I use a trade journal that lists potential sites for beet sugar plants. By comparing counties where factories were established with those not ultimately selected, I find that plant openings had long-lasting effects on both manufacturing and agricultural activities over one hundred years. These effects stem from local spillovers through input-output linkages rather than from improvements in public goods or amenities. 
+            This paper presents evidence of path dependence in economic geography by investigating the agglomeration spillovers from US beet sugar factories, which attracted large-scale manufacturing facilities near farmlands. To estimate the effects of plant openings, I identify runner-up locations for beet sugar plants from a historical trade journal and find that these plant openings had large and long-lasting effects on population and manufacturing activities over one hundred years. The agglomeration spillovers benefited industries not only directly linked through input-output linkages but also extended to broader, less related industries outside the production chain of agricultural processing.
+
         </p>
     </details>
