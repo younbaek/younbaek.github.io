@@ -2,13 +2,13 @@
 layout: default
 ---
 ## Job Market Paper
-- "Cultural exchange and the birth of international development"
+- "Cultural Exchange and the Birth of International Development"
 
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            This paper investigates the impact of intergroup contact on attitudes towards global poverty and development in the context of the Student Volunteer Movement, the largest missionary movement in the United States. Using hand-collected archival records of missionaries and runner-up applicants, matched with publication data, this study shows missionary experience deepened social scientific knowledge on developing countries. I then show that missionaries were a major source of information about these areas during WWII, on the eve of the birth of international development. The next part of the paper uses a shift-share instrumental variable based on denominational exposure to early missionary recruiters in 1886-87 to document that congressmen representing denominations with greater missionary exposure were more likely to support landmark foreign aid legislation that established the modern concept of development assistance. This exposure resulted in denominational support for foreign aid in congressional testimony, promoted moral universalism in congressional speeches, and contributed to an increase in Peace Corps volunteers.
+            This paper investigates the impact of intergroup contact on attitudes towards global poverty and development in the context of the Student Volunteer Movement, the largest missionary movement in the United States. Using hand-collected archival records of 12,265 missionaries and 24,841 runner-up applicants, this study shows missionary experience tripled the probability that an individual becomes an author writing about foreign countries. The content of these publications was closely related to development studies, and missionaries were major source of information for U.S. government during WWII, on the eve of international development. The next part of the paper uses a shift-share instrumental variable based on denominational exposure to early missionary recruiters in 1886-87 to document that congressmen representing denominations with greater missionary exposure were more likely to support landmark foreign aid legislation that established the modern concept of development assistance. A back-of-the-envelope calculation suggests that a 30 percent reduction in the total number of missionaries would have prevented the passage of these major foreign aid bills. Exposure to missionaries led to denominational support for foreign aid in congressional testimony, promoted moral universalism in congressional speeches, and contributed to an increase in Peace Corps volunteers. 
         </p>
     </details>
 
@@ -29,7 +29,7 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
 
 ## Work in progress
 
-- "Place-based costs and productivity in R&D"  (with Sathya Ramesh)
+- "Place-based Costs and Productivity in R&D"  (with Sathya Ramesh)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
