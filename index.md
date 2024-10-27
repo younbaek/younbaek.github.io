@@ -9,7 +9,7 @@ layout: default
       
       <b>I am on the job market in the 2024-2025 academic year.</b><br><br>
       
-      My research interests are political economy, economic history, and development economics.
+      My research interests are development economics, economic history, and political economy.
     </td>
     <td style="border: none;" width="40%">
       <img src="/baek.png" width="40" align="right"/>
