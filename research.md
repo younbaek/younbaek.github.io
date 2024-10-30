@@ -2,8 +2,7 @@
 layout: default
 ---
 ## Job Market Paper
-- "Cultural Exchange and the Birth of International Development" <br>
-[Draft](../assets/papers/baek_jmp.pdf)
+- "Cultural Exchange and the Birth of International Development" [Draft](../assets/papers/baek_jmp.pdf)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -42,8 +41,9 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
     </details>
 
 
-  - "Engineering Human Capital: Long-Run Effects of Wartime Technical Training"  (with Mina Kim) <br>
-[Draft](../assets/papers/esmwt.pdf)
+- "Engineering Human Capital: Long-Run Effects of Wartime Technical Training" (with Mina Kim) [Draft](../assets/papers/esmwt.pdf)
+
+
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
