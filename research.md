@@ -3,12 +3,12 @@ layout: default
 ---
 ## Job Market Paper
 - "Cultural Exchange and the Birth of International Development"
-
+[Draft](../assets/papers/baek_jmp.pdf)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            This paper examines how Protestant foreign missions shaped commitment to international development in the context of the Student Volunteer Movement, the largest missionary movement in the United States. Using a shift-share instrumental variable based on denominational exposure to early missionary recruiters in 1886-87, I show that congressmen representing denominations with greater missionary exposure were more likely to support landmark foreign aid bills that established the modern concept of development assistance. A back-of-the-envelope calculation suggests that a 30 percent reduction in the total number of missionaries would have prevented the passage of these bills. Missionaries played a fundamental role in shaping American foreign policy perspectives, with their experiences contributing to social scientific knowledge that the government highly valued compared to other experts, fostering denominational support for foreign aid in congressional testimony, promoting moral universalism in congressional speeches, and increasing participation in the Peace Corps.
+            This paper examines how intergroup contact shapes preferences for international development in the context of the Student Volunteer Movement, the largest missionary movement in the United States. Using a shift-share instrumental variable based on denominational exposure to early missionary recruiters in 1886-87, I show that congressmen representing denominations with greater missionary exposure were more likely to support landmark foreign aid bills that established the modern concept of development assistance. A back-of-the-envelope calculation suggests that a 30 percent reduction in the total number of missionaries would have prevented the passage of these bills. Missionaries played a fundamental role in shaping American foreign policy perspectives, with their experiences contributing to social scientific knowledge that the government highly valued compared to other experts, fostering denominational support for foreign aid in congressional testimony, promoting moral universalism in congressional speeches, and increasing participation in the Peace Corps.
         </p>
     </details>
 
