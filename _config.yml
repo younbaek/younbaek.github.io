@@ -22,5 +22,7 @@ nav:
    link: "../assets/papers/baek_cv.pdf"
  - name: "Research"
    link: "research"
+ - name: "Teaching"
+   link: "teaching"
  - name: "Contact"
    link: "contact"
