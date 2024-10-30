@@ -30,7 +30,6 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
 ## Work in progress
 
 - "Place-based Costs and Productivity in R&D" (with Sathya Ramesh)  
-  [Draft](../assets/papers/baek_place_based.pdf)
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
