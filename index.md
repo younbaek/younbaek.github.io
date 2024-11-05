@@ -11,9 +11,9 @@ layout: default
       
       My research interests are development economics, economic history, and political economy.<br><br>
 
-      My CV is [here](assets/papers/baek_cv.pdf).<br><br>
+      My CV is <a href="https://younbaek.github.io/assets/papers/baek_cv.pdf" target="_blank">here</a>.<br><br>
 
-      In my [job market paper](assets/papers/baek_jmp.pdf), I study how exposure to foreign cultures through Protestant missionaries abroad shaped       U.S. policy preferences regarding foreign aid.
+      In my <a href="https://younbaek.github.io/assets/papers/baek_jmp.pdf" target="_blank">job market paper</a>, I study how exposure to foreign cultures through Protestant missionaries abroad shaped       U.S. policy preferences regarding foreign aid.
     </td>
     <td style="border: none;" width="40%">
       <img src="/baek.png" width="40" align="right"/>
