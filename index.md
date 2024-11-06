@@ -13,7 +13,7 @@ layout: default
 
       My CV is <a href="https://younbaek.github.io/assets/papers/baek_cv.pdf" target="_blank">here</a>.<br><br>
 
-      In my <a href="https://younbaek.github.io/assets/papers/baek_jmp.pdf" target="_blank">job market paper</a>, I study how exposure to foreign cultures through Protestant missionaries abroad shaped       U.S. policy preferences regarding foreign aid.
+      In my <a href="https://younbaek.github.io/assets/papers/baek_jmp.pdf" target="_blank">job market paper</a>, I examine how Protestant missionaries abroad shaped American policy preferences on foreign aid.
     </td>
     <td style="border: none;" width="40%">
       <img src="/baek.png" width="40" align="right"/>
