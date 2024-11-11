@@ -12,7 +12,7 @@ layout: default
   </li>
 </ul>
 
-<h3>MBA Courses</h3>
+<h3>MBA</h3>
 <ul>
   <li>
     <strong>Firms and Markets</strong> (Fall 2021, Spring 2022) <br>
