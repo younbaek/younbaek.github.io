@@ -2,12 +2,12 @@
 layout: default
 ---
 ## Job Market Paper
-- "Cultural Exchange and the Birth of International Development" [Draft](../assets/papers/baek_jmp.pdf)
+- "Missionaries and the Birth of International Development" [Draft](../assets/papers/baek_jmp.pdf)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            United States is a leading provider of foreign aid. This paper studies how Protestant missionaries abroad shaped America's commitment to international development. I use the travel routes of recruiters from the Student Volunteer Movement, the largest missionary movement at the turn of the twentieth century, to generate plausibly exogenous variation in exposure to missionaries across denominations and space. Using newly digitized data on individual missionaries, I find that a 10-percent increase in the total number of missionaries leads to a 7-percentage point rise in pro-foreign aid votes that established modern development assistance. To explore channels, I present evidence that missionaries played a fundamental role in shaping foreign policy preferences and perspectives: Church denominations exposed to more missionaries were more likely to endorse foreign aid during congressional hearings. In turn, congresspeople representing these constituents adopted moral universalism in their speeches. By the mid-twentieth century, missionaries emerged as public experts on non-European societies, with government agencies disproportionately drawing on their regional expertise.
+            The United States is the world's leading provider of foreign aid. This paper studies how Protestant missionaries abroad shaped America's commitment to international development. I use the travel routes of recruiters from the Student Volunteer Movement, the largest missionary movement at the turn of the twentieth century, to generate plausibly exogenous variation in exposure to missionaries across denominations and space. I find that a 10-percent increase in the total number of missionaries leads to a 7-percentage point rise in pro-foreign aid votes that established modern development assistance in the mid-twentieth century. To explore channels, I present evidence that missionaries played a fundamental role in shaping foreign policy preferences and perspectives: church denominations exposed to more missionaries were more likely to endorse foreign aid in congressional testimony. In turn, congresspeople representing these constituents adopted moral universalism in their speeches. Drawing on biographical records of 37,106 missionaries and applicants, I document that missionaries emerged as public experts on non-European societies, with government agencies disproportionately relying on their regional expertise.
 
         </p>
     </details>
