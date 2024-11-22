@@ -39,8 +39,7 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
       </p>
   </details>
 
-- "Engineering Human Capital: Long-Run Effects of Wartime Technical Training" (with Mina Kim)  
-  [Draft](../assets/papers/esmwt.pdf)
+- "Engineering Human Capital: Long-Run Effects of Wartime Technical Training" (with Mina Kim) [Draft](../assets/papers/esmwt.pdf)
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
