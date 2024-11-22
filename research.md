@@ -50,7 +50,8 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
 
 
 ## Dormant projects
-- "Labor Scarcity and Structural Transformation in Colonial Korea"  
+- "Labor Scarcity and Structural Transformation in Colonial Korea"
+
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
       <p class="notice" style="margin-top:0 !important">
