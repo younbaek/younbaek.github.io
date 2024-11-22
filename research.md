@@ -48,3 +48,15 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
           This paper examines the enduring impact of the Engineering, Science, and Management War Training (ESMWT) program (1940-45) on the growth of engineers and scientists. To identify the effect of this training, the analysis leverages residual variation in ESMWT intensity across commuting zones, which stems from prediction errors made by local areas regarding imminent labor shortages during WWII, conditional on other WWII-related factors. The results indicate that this training led to a lasting increase in the number of engineers and STEM workers. Further analyses suggest that it also boosted interest in STEM education and led to increased post-graduate training after WWII. Localized spillovers in defense-related industries, driven by a temporary wartime demand shock, appear to have played a limited role in these changes in the occupational structure.
       </p>
   </details>
+
+
+## Dormant projects
+- "Labor Scarcity and Structural Transformation in Colonial Korea"
+ <details>
+     <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
+     <p class="notice" style="margin-top:0 !important">
+         This study examines the unintended long-term economic consequences of wartime labor mobilization in colonial Korea (1939-1945). The forced mobilization of labor, mandated by Imperial Japan, represented an exogenous shock that removed a substantial portion of the agricultural workforce from rural districts, disrupting Korea's labor-dependent agrarian economy. I investigate how this labor supply shock influenced land tenure systems and industrial transition.
+     </p>
+ </details>
+
+  
