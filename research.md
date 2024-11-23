@@ -8,8 +8,6 @@ layout: default
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
             The United States is the world's leading provider of foreign aid. I examine the role of Protestant missionaries abroad in fostering support for international development. I use the travel routes of recruiters from the Student Volunteer Movement, the largest missionary movement in America at the turn of the twentieth century, to generate plausibly exogenous variation in exposure to missionaries across denominations and regions. I find that a 10-percent increase in missionaries led to a 8-percentage point rise in congressional votes for foreign aid that established modern development assistance during the mid-twentieth century. Exploring mechanisms, I document that missionaries shaped foreign policy preferences and perspectives: Exposure to missionaries led church denominations to endorse foreign aid in congressional testimony and encouraged congressional representatives to adopt language showing broader responsibility and care for people outside their own communities. Biographical records of 12,265 missionaries and 24,841 runner-up applicants reveal that missionaries became key experts on non-European societies, providing critical insights to government agencies during the formative years of international development. In the long run, the exposure to missionaries led to larger numbers of Peace Corps volunteers.
-
-
         </p>
     </details>
 
@@ -23,7 +21,6 @@ September 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
             This paper presents evidence of path dependence in economic geography by investigating the agglomeration spillovers from US beet sugar factories, which attracted large-scale manufacturing facilities near farmlands. To estimate the effects of plant openings, I identify runner-up locations for beet sugar plants from a historical trade journal and find that these plant openings had large and long-lasting effects on population and manufacturing activities over one hundred years. The agglomeration spillovers benefited industries not only directly linked through input-output linkages but also extended to broader, less related industries outside the production chain of agricultural processing.
-
         </p>
     </details>
 
