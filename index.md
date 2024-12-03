@@ -15,7 +15,7 @@ layout: default
 
       In my <a href="https://younbaek.github.io/assets/papers/baek_jmp.pdf" target="_blank">job market paper</a>, I try to understand how foreign policy preferences are formed and how they translate into actual policies in the United States, a key player in driving the global economy.<br><br>
 
-      I am working on other projects on industrial policy and R&D.
+      I am also working on industrial policy and R&D.
     </td>
     <td style="border: none;" width="40%">
       <img src="/baek.png" width="40" align="right"/>
