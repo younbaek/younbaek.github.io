@@ -8,7 +8,7 @@ layout: default
   <li>
     <strong>Microeconomics with Algebra, Microeconomics with Calculus</strong> 
     (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024) <br>
-    Teaching assistant: Prof. Guillaume Haeringer, Prof. Gianluca Clementi, Prof. Simon Bowmaker, Prof. Tommaso Denti, Prof. Jacob French
+    Teaching assistant: Prof. Guillaume Haeringer, Prof. Gianluca Clementi, Prof. Simon Bowmaker, Prof. Tommaso Denti, Prof. Jacob French [Evaluation](../assets/papers/baek_teach_eval_all.pdf)
   </li>
 </ul>
 
@@ -20,6 +20,6 @@ layout: default
   </li>
   <li>
     <strong>Economics of Creativity and Innovation</strong> (Fall 2021) <br>
-    Teaching assistant: Prof. Petra Moser
+    Teaching assistant: Prof. Petra Moser [Evaluation](../assets/papers/creati.pdf)
   </li>
 </ul>
