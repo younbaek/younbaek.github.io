@@ -13,7 +13,9 @@ layout: default
 
       My CV is <a href="https://younbaek.github.io/assets/papers/baek_cv.pdf" target="_blank">here</a>.<br><br>
 
-      In my <a href="https://younbaek.github.io/assets/papers/baek_jmp.pdf" target="_blank">job market paper</a>, I examine how Protestant missionaries abroad shaped American policy preferences on foreign aid.
+      In my <a href="https://younbaek.github.io/assets/papers/baek_jmp.pdf" target="_blank">job market paper</a>, I try to understand how foreign policy preferences are formed and how they translate into actual policies in the United States, a key player in driving the global economy.<br><br>
+
+      I am working on other projects on industrial policy and R&D.
     </td>
     <td style="border: none;" width="40%">
       <img src="/baek.png" width="40" align="right"/>
