@@ -18,7 +18,7 @@ layout: default
       I am also working on industrial policy and R&D.
     </td>
     <td style="border: none;" width="40%">
-      <img src="/baek.png" width="40" align="right"/>
+      <img src="/baek_edit.png" width="40" align="right"/>
     </td>
   </tr>
 </table>
