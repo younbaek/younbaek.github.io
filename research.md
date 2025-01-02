@@ -46,14 +46,5 @@ December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.
   </details>
 
 
-## Dormant projects
-- "Labor Scarcity and Structural Transformation in Colonial Korea"
-
-  <details>
-      <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
-      <p class="notice" style="margin-top:0 !important">
-          This study examines the unintended long-term economic consequences of wartime labor mobilization in colonial Korea (1939-1945). The forced mobilization of labor, mandated by Imperial Japan, represented an exogenous shock that removed a substantial portion of the agricultural workforce from rural districts, disrupting Korea's labor-dependent agrarian economy. I investigate how this labor supply shock influenced land tenure systems and industrial transition.
-      </p>
-  </details>
 
   
