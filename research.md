@@ -26,7 +26,7 @@ December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.
 
 
 ## Work in progress
-- "Estimating the supply elasticity of innovation"
+- "Estimating the Supply Elasticity of Innovation"
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
