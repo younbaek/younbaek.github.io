@@ -26,6 +26,15 @@ December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.
 
 
 ## Work in progress
+- "Estimating the supply elasticity of innovation"
+
+  <details>
+      <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
+      <p class="notice" style="margin-top:0 !important">
+          Government R&D may pass through to higher scientists' wages rather than an increase in innovation when the labor supply of scientific workforce is inelastic. This paper leverages granular data on scientists’ productivity, wages, and research funding to estimate the impact of government R&D on both inventive output and wages. To identify these effects, I exploit variation in city size driven by universities’ historical ties to defense funding, which influenced the geographic distribution of scientists through the placement of graduates into research-intensive cities. I find that government R&D increases inventive output, particularly among scientists who do not receive funding themselves. The monetary value of increased inventions outweighs the increase in labor costs. While R&D subsidies do lead to higher wages, the results indicate that government investment in research can enhance overall innovation output through the entry of new scientists and subsequent knowledge spillovers, and that the elasticity of innovation with respect to government funding is large at least in the long run.
+      </p>
+  </details>
+
 
 - "Place-based Costs and Productivity in R&D" (with Sathya Ramesh)  
 
