@@ -42,7 +42,7 @@ December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
       <p class="notice" style="margin-top:0 !important">
-          This paper examines how deep learning shaped the innovation landscape in AI industry by conferring a distinct advantage to big tech firms over startups. Building on theories of absorptive capacity and knowledge spillovers, I argue that while large companies’ research efforts can generate positive externalities, their proprietary data environments also create structural barriers for smaller firms. Leveraging the sudden rise of deep learning in 2012 as an exogenous shock, I examine the impact of this shift in AI innovation toward big data and large-scale computing. The findings indicate that, following the breakthrough in deep learning, big tech companies significantly increased their participation in AI development. However, this surge in AI research by big techs coincided with a decline in the adoption of deep learning research in AI startup patents. Further analysis indicates that access to data, rather than computing power, is the primary constraint for startups. Moreover, policies aimed at encouraging labor mobility—often assumed to bridge knowledge gaps—appear ineffective in offsetting startups’ disadvantages when big tech firms maintain a strong data advantage.
+          Under conference review; draft unavailable per submission guidelines.
       </p>
   </details>
 
