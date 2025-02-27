@@ -24,9 +24,7 @@ December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.
         </p>
     </details>
 
-
-## Work in progress
-- "Estimating the Supply Elasticity of Innovation"
+- "Estimating the Supply Elasticity of Innovation" [Draft](../assets/papers/baek_nsfagg.pdf)
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -35,6 +33,9 @@ December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.
       </p>
   </details>
 
+
+
+## Work in progress
 
 - "Place-based Costs and Productivity in R&D" (with Sathya Ramesh)  
 
