@@ -14,8 +14,7 @@ layout: default
 
 ## Working papers
 
-- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry"  *(Submitted)*      
-December 2024 | [Draft](../assets/papers/baek_beet.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859645)
+- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry"  *(Submitted)* [Draft](../assets/papers/baek_beet.pdf)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
