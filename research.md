@@ -54,7 +54,7 @@ layout: default
       </p>
   </details>
 
-- "Engineering Human Capital: Long-Run Effects of Wartime Technical Training" (with Mina Kim) [Draft](../assets/papers/esmwt.pdf)
+- "Engineering Human Capital: Long-Run Effects of Wartime Technical Training" (with Mina Kim) 
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
