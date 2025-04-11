@@ -14,7 +14,7 @@ layout: default
 
 ## Working papers
 
-- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry" [[Draft](../assets/papers/baek_beet.pdf)]
+- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry" [[Draft](../assets/papers/baek_beet.pdf)] Revision requested at *Journal of Urban Economics* 
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -22,8 +22,6 @@ layout: default
             This paper investigates the agglomeration spillovers from the beet sugar industry, which was supported by U.S. government as an industrial policy to encourage rural development during the early twentieth century. To estimate the effects of plant openings, I identify runner-up locations for beet sugar plants from a historical trade journal and find that these plant openings had large and long-lasting effects on population and manufacturing activities over one hundred years. The local jobs multiplier was significantly larger in less populated areas, suggesting that low congestion in sparsely settled regions enabled a sizeable impact. The agglomeration spillovers benefited industries not only directly linked through input-output linkages but also extended to broader, less related industries outside the production chain of agricultural processing.
         </p>
     </details>
-
-    Revision requested at *Journal of Urban Economics* 
 
 - "Estimating the Supply Elasticity of Innovation" [[Draft](../assets/papers/baek_nsfagg.pdf)]
 
