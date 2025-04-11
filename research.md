@@ -14,7 +14,7 @@ layout: default
 
 ## Working papers
 
-- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry"  *(Submitted)* [Draft](../assets/papers/baek_beet.pdf)
+- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry" Revision requested at *Journal of Urban Economics* [Draft](../assets/papers/baek_beet.pdf)
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
