@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Job Market Paper
-- "Missionaries and the Birth of International Development" [Draft](../assets/papers/baek_jmp.pdf)
+- "Missionaries and the Birth of International Development" [[Draft](../assets/papers/baek_jmp.pdf)]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -14,7 +14,7 @@ layout: default
 
 ## Working papers
 
-- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry" Revision requested at *Journal of Urban Economics* [Draft](../assets/papers/baek_beet.pdf)
+- "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry" Revision requested at *Journal of Urban Economics* [[Draft](../assets/papers/baek_beet.pdf)]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -23,7 +23,7 @@ layout: default
         </p>
     </details>
 
-- "Estimating the Supply Elasticity of Innovation" [Draft](../assets/papers/baek_nsfagg.pdf)
+- "Estimating the Supply Elasticity of Innovation" [[Draft](../assets/papers/baek_nsfagg.pdf)]
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
