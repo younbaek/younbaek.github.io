@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-## Job Market Paper
+
+## Working papers
+
 - "Missionaries and the Birth of International Development" [[Draft](../assets/papers/baek_jmp.pdf)]
 
     <details>
@@ -10,9 +12,6 @@ layout: default
             The United States is the world’s leading provider of foreign aid. Is this driven by humanitarian motives or strategic interests? Using the travel routes of Student Volunteer Movement recruiters as an instrument, I document that exposure to American Protestant missionaries played a crucial role in boosting congressional support for major foreign aid bills that initiated the modern era of U.S. development assistance. Missionary influence led church denominations to advocate for aid in congressional testimony and encouraged policymakers to frame it in terms of human dignity rather than strategic interests. Beyond advocacy in Congress, missionaries became key experts on non-Western socities, producing social science research and advising the U.S. government. In the long run, missionary influence contributed to a sustained commitment to global development, reflected in increased Peace Corps participation.
         </p>
     </details>
-
-
-## Working papers
 
 - "Path Dependence through Agglomeration Spillovers: Evidence from the Beet Sugar Industry" [[Draft](../assets/papers/baek_beet.pdf)] Revision requested at *Journal of Urban Economics* 
 
