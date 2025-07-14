@@ -5,7 +5,7 @@ layout: default
 <table style="border-collapse: collapse; border: none;" width="100%">
   <tr>
     <td style="border: none;" width="60%"> 
-      Welcome! I am a sixth-year PhD student in economics at NYU Stern.<br><br>
+      Welcome! I’m a Postdoctoral Researcher in the Department of Management and Organizations at NYU Stern.<br><br>
       
       My research interests are innovation and political economy.<br><br>
 
