@@ -22,7 +22,7 @@ layout: default
         </p>
     </details>
 
- - "Beyond Demo Day: Sorting and Value Added in Startup Accelerators" [<a href="https://www.nber.org/papers/w35063">NBER WP</a>]
+ - "Beyond Demo Day: Sorting and Value Added in Startup Accelerators" (w/ <a href="https://www.dhegde.com/" target="_blank" rel="noopener noreferrer">Deepak Hegde</a>) [<a href="https://www.nber.org/papers/w35063" target="_blank" rel="noopener noreferrer">NBER WP</a>]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
