@@ -4,7 +4,7 @@ layout: default
 
 ## Working papers
 
-- "Missionaries and the Birth of International Development" [[Draft](../assets/papers/baek_jmp.pdf)][Updated draft is coming soon]
+- "Missionaries and the Birth of International Development" [[Draft (July 2025)](../assets/papers/baek_jmp.pdf)][Updated draft is coming soon]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -13,7 +13,7 @@ layout: default
         </p>
     </details>
 
-- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry" [[Draft](../assets/papers/baek_beet.pdf)] Conditionally accepted at *Journal of Urban Economics* 
+- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry" [[Draft (Apriil 2026)](../assets/papers/baek_beet.pdf)] Conditionally accepted at *Journal of Urban Economics* 
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -22,7 +22,7 @@ layout: default
         </p>
     </details>
 
- - "Beyond Demo Day: Sorting and Value Added in Startup Accelerators" (w/ [Deepak Hegde](https://www.dhegde.com/)) [[NBER WP](https://www.nber.org/papers/w35063)]
+ - "Beyond Demo Day: Sorting and Value Added in Startup Accelerators" (w/ [Deepak Hegde](https://www.dhegde.com/)) [[NBER WP (April 2026)](https://www.nber.org/papers/w35063)]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -31,7 +31,7 @@ layout: default
         </p>
     </details>   
 
-- "Estimating the Supply Elasticity of Innovation" [[Draft](../assets/papers/baek_nsfagg.pdf)]
+- "Estimating the Supply Elasticity of Innovation" [[Draft (April 2025)](../assets/papers/baek_nsfagg.pdf)]
 
   <details>
       <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
