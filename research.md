@@ -13,7 +13,7 @@ layout: default
         </p>
     </details>
 
-- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry" [[Draft (Apriil 2026)](../assets/papers/baek_beet.pdf)] Conditionally accepted at *Journal of Urban Economics* 
+- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry" [[Draft (April 2026)](../assets/papers/baek_beet.pdf)] Conditionally accepted at *Journal of Urban Economics* 
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
