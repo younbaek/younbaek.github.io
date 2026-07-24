@@ -4,7 +4,7 @@ layout: default
 
 ## Working papers
 
-- "Missionaries and the Birth of International Development" [[Draft (July 2025)](../assets/papers/baek_jmp.pdf)][Updated draft is coming soon]
+- "Missionaries and the Birth of International Development" [[Draft (July 2026)](../assets/papers/baek_jmp.pdf)]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -13,7 +13,7 @@ layout: default
         </p>
     </details>
 
-- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry" [[Draft (April 2026)](../assets/papers/baek_beet.pdf)] [[Replication package](https://www.openicpsr.org/openicpsr/project/248151/version/V1/view)] Conditionally accepted at *Journal of Urban Economics* 
+- "Industrial Spillovers from Agricultural Processing: Evidence from the Beet Sugar Industry" [[Draft (April 2026)](../assets/papers/baek_beet.pdf)] [[Replication package](https://www.openicpsr.org/openicpsr/project/248151/version/V1/view)] Accepted at *Journal of Urban Economics* 
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
@@ -22,7 +22,7 @@ layout: default
         </p>
     </details>
 
- - "Beyond Demo Day: Sorting and Value Added in Startup Accelerators" (w/ [Deepak Hegde](https://www.dhegde.com/)) [[NBER WP (April 2026)](https://www.nber.org/papers/w35063)] [[Draft (April 2026)](../assets/papers/ava.pdf)]
+ - "Beyond Demo Day: Sorting and Value Added in Startup Accelerators" (w/ [Deepak Hegde](https://www.dhegde.com/)) [[NBER WP (April 2026)](https://www.nber.org/papers/w35063)] [[Draft (June 2026)](../assets/papers/ava.pdf)] *Submitted*
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
