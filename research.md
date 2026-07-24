@@ -2,6 +2,18 @@
 layout: default
 ---
 
+## Job market paper
+
+- "Do Venture Capitalists Venture?" [Draft coming soon]
+
+    <details>
+        <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
+        <p class="notice" style="margin-top:0 !important">
+            Innovation requires a fundamental choice: exploit what is already known, or explore what might work instead. Venture capital is often celebrated for discovering transformative companies by financing ideas that others overlook. How much do venture capitalists truly venture? Do they explore as much as their limited partners would prefer? And in today's AI boom, are venture capitalists venturing into genuinely new opportunities, or are they converging on the same increasingly conventional investment theses?
+        </p>
+    </details>
+
+
 ## Working papers
 
 - "Missionaries and the Birth of International Development" [[Draft (July 2026)](../assets/papers/baek_jmp.pdf)]
