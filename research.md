@@ -16,7 +16,7 @@ layout: default
 
 ## Working papers
 
-- "Missionaries and the Birth of International Development" [[Draft (July 2026)](../assets/papers/baek_jmp.pdf)]
+- "Missionaries and the Birth of International Development" [[Draft (July 2026)](../assets/papers/baek_jmp.pdf)] *Submitted*
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
