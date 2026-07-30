@@ -9,7 +9,7 @@ layout: default
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
-            Innovation requires a fundamental choice: exploit what is already known, or explore what might work instead. Venture capital is often celebrated for discovering transformative companies by financing ideas that others overlook. How much do venture capitalists truly venture? Do they explore as much as their limited partners would prefer? And in today's AI boom, are venture capitalists venturing into new opportunities, or are they converging on the conventional investment theses?
+            Innovation requires a fundamental choice: exploit what is already known, or explore what might work instead. In venture capital, this choice is reflected in whether investors back conventional startups that resemble many existing ventures or differentiated startups pursuing less-tested ideas. Conventional investments are often individually rational. They build on existing knowledge, are easier to evaluate, and reduce investment risk. Yet when many investors make the same individually rational choice, capital may become concentrated on a small number of commercial hypotheses. A market can finance thousands of startups while conducting remarkably few independent experiments. This paper asks whether venture capital suffers from such congestion: how much venture capital actually explores, why investors converge on conventional investment theses, and whether individually rational exploitation leads the market to finance fewer independent experiments than investors would prefer.
         </p>
     </details>
 
