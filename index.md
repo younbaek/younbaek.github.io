@@ -9,6 +9,8 @@ layout: default
       
       My research interests are innovation and political economy.<br><br>
 
+      I am on the 2026-27 job market.<br><br>
+
       My CV is <a href="https://younbaek.github.io/assets/papers/baek_cv.pdf" target="_blank">here</a>.<br><br>
 
     </td>
