@@ -7,7 +7,7 @@ layout: default
     <td style="border: none;" width="60%"> 
       Welcome! I’m a Postdoctoral Researcher in the Department of Management and Organizations at NYU Stern.<br><br>
       
-      My research interests are entrepreneurial strategy and innovation.<br><br>
+      My research interests are entrepreneurship and innovation.<br><br>
 
       I am on the 2026-27 job market.<br><br>
 
