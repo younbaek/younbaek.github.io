@@ -17,7 +17,7 @@ layout: default
 
 ## Working papers
 
-- "Missionaries and the Birth of International Development" [[Draft (July 2026)](../assets/papers/baek_jmp.pdf)] *Submitted*
+- "Missionaries and the Birth of International Development" [[Draft (July 2026)](../assets/papers/baek_jmp.pdf)][[NBER SI](https://www.nber.org/conferences/si-2025-political-economy)] *Submitted*
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
