@@ -10,6 +10,7 @@ layout: default
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
         <p class="notice" style="margin-top:0 !important">
             Funding startups that diverge from prevailing business models may be the source of venture capital's outsized returns. Yet venture capital investment often moves in waves, with investors converging on similar business models across otherwise distant markets. I study how these investment fads shape the direction and performance of venture capital. When market peers in distant states and industry sectors shift toward more familiar business models, focal investors follow, and their investments earn lower financial returns. These peer-induced shifts also lead investors to fund startups with slower revenue growth, fewer and less novel patents, and less follow-on financing. I obtain similar negative return effects when I isolate investment waves with more plausibly exogenous origins. Investors respond more strongly to network-central peers, even though following them predicts poorer returns, revealing a mismatch between peer influence and informational value. I find no offsetting gains elsewhere in the investor’s portfolio or in the performance of subsequent investments. Yet investors more strongly pulled by peers subsequently deploy more capital and attain greater centrality in future syndication networks, suggesting potential benefits to convergence beyond financial returns.
+            
         </p>
     </details>
 
