@@ -4,7 +4,7 @@ layout: default
 
 ## Job market paper
 
-- "Do Venture Capitalists Venture?" [Draft coming soon]
+- "Do Venture Capitalists Venture?" [[Draft (November 2026)](../assets/papers/baek_jmp_vc.pdf)]
 
     <details>
         <summary style="margin-top: -1.3em; cursor: pointer; color: #007BFF;">Abstract</summary>
